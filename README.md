@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+npm install 
+(may need to do npm audit fix)
 ```
 
 ### Compiles and hot-reloads for development
