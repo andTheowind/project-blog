@@ -180,6 +180,7 @@ body {
 
 .main {
     padding: 20px;
+    background-color: #f7f7f7;
 }
 
 h2 {
@@ -237,6 +238,7 @@ form {
 .btn {
     margin-top: 20px;
     font-family: 'Roboto', sans-serif;
+    font-weight: 500;
     cursor: pointer;
     align-self: flex-end;
     padding: 5px 10px;
