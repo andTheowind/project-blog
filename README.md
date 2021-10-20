@@ -1,9 +1,9 @@
-# text-editor-vue
+# Blog-Vue
 
 ## Project setup
 ```
 npm install 
-(may need to do npm audit fix)
+(maybe need to do "npm audit fix")
 ```
 
 ### Compiles and hot-reloads for development
